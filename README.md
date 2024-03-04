@@ -1,1 +1,1 @@
-# Logistic_Regression-Breast_Cancer
+# Logistic_Regression-Breast_Cancer_Diagnostic
