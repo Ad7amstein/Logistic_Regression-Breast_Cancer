@@ -30,7 +30,7 @@ The primary goal of this project is to develop a robust logistic regression mode
 
 To get started with the project, follow these steps:
 
-1. [Open in colab](#https://colab.research.google.com/github/Ad7amstein/Logistic_Regression-Breast_Cancer_Diagnostic/blob/main/Breast_Cancer_Diagnostic.ipynb)
+1. [Open in colab](https://colab.research.google.com/github/Ad7amstein/Logistic_Regression-Breast_Cancer_Diagnostic/blob/main/Breast_Cancer_Diagnostic.ipynb)
 2. Explore the generated plots and visualizations to analyze the data and model performance.
 3. Experiment with different parameters and features to further enhance the model's accuracy.
 
