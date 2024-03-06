@@ -3,6 +3,10 @@
 
 This project utilizes logistic regression to predict whether breast cancer is benign or malignant. Leveraging mathematical concepts and Python libraries such as numpy, matplotlib, seaborn, and math, this project dives into the realm of machine learning with a focus on cancer diagnostics.
 
+## [About Dataset](https://www.kaggle.com/datasets/uciml/breast-cancer-wisconsin-data/data)
+
+Features are computed from a digitized image of a fine needle aspirate (FNA) of a breast mass. They describe characteristics of the cell nuclei present in the image.
+
 ## Project Overview
 
 The primary goal of this project is to develop a robust logistic regression model capable of accurately classifying breast cancer. The process involves several steps:
